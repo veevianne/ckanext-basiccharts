@@ -4,7 +4,6 @@ basiccharts_js:
       - base/main
 
   contents:
-    - scripts/basicgrid.js
     - vendor/jquery.flot.js
     - vendor/jquery.flot.pie.js
     - vendor/jquery.flot.time.js
